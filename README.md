@@ -1,2 +1,2 @@
 # projetophp
-Um projeto para estudo de php...
+Um projeto do legal[
